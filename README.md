@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-css-flexbox-2VrbIP7DJ](https://www.frontendmentor.io/solutions/html-css-flexbox-2VrbIP7DJ)
+- Live Site URL: [https://tarunsahnan.github.io/NFT-preview-card-component/](https://tarunsahnan.github.io/NFT-preview-card-component/)
 
 
 ### Built with
